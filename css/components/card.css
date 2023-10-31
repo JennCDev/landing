@@ -1,0 +1,20 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-item {
+  width: 150px;
+  border: 1px solid rgb(220,220,220);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  text-align: center;
+  padding: 20px 50px;
+}
+
+.card-item img {
+  width: 150px;
+}
+
+.card-item p {
+  opacity: 0.6;
+}
